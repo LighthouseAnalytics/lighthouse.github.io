@@ -6,29 +6,29 @@
     },
     "questions": [ {
         "Id": 1010,
-        "Name": "Which of the below metric is called throughput?",
+        "Name": "What does FPTI stand for?",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1055, "QuestionId": 1010, "Name": "Hits/sec", "IsAnswer": false },
-            { "Id": 1056, "QuestionId": 1010, "Name": "Transactions/sec", "IsAnswer": true },
-            { "Id": 1057, "QuestionId": 1010, "Name": "Error rate", "IsAnswer": false },
-            { "Id": 1058, "QuestionId": 1010, "Name": "Response time", "IsAnswer": false }],
+            { "Id": 1055, "QuestionId": 1010, "Name": "Fool proof Tracking idea", "IsAnswer": false },
+            { "Id": 1056, "QuestionId": 1010, "Name": "First Party Transacation Infrastructure", "IsAnswer": false },
+            { "Id": 1057, "QuestionId": 1010, "Name": "First Party Tracking Infrastrucure", "IsAnswer": true },
+            { "Id": 1058, "QuestionId": 1010, "Name": "First Party Tracking Initiative", "IsAnswer": false }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1011,
-        "Name": "Which of the testing is typically conducted to identify memory leak?",
+        "Name": "Spider  can help with:",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1059, "QuestionId": 1011, "Name": "Load Testing", "IsAnswer": false },
-            { "Id": 1060, "QuestionId": 1011, "Name": "Long Duration testing", "IsAnswer": true },
-            { "Id": 1061, "QuestionId": 1011, "Name": "Spike Testing", "IsAnswer": false },
-            { "Id": 1062, "QuestionId": 1011, "Name": "Volume Testing", "IsAnswer": false }],
+            { "Id": 1059, "QuestionId": 1011, "Name": "Instrumentation Validation", "IsAnswer": false },
+            { "Id": 1060, "QuestionId": 1011, "Name": "Experimentation Validation", "IsAnswer": false },
+            { "Id": 1061, "QuestionId": 1011, "Name": "Both", "IsAnswer": true },
+            { "Id": 1062, "QuestionId": 1011, "Name": "none of the abov", "IsAnswer": false }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1012,
-        "Name": "Using Content Delivery Network(CDN) for static images will increase the performance?",
+        "Name": "Polestar will provide analytics ready datasets both in Hadoop & Teradata",
         "QuestionTypeId": 1,
         "Options": [
             { "Id": 1063, "QuestionId": 1012, "Name": "True", "IsAnswer": true },
@@ -37,102 +37,102 @@
     },
     {
         "Id": 1013,
-        "Name": "Which of the below is false about performance testing?",
+        "Name": "Analytics ready data sets in Hadoop from FPTI will be made available with Polestar in",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1065, "QuestionId": 1013, "Name": "Performance testing is done to validate  the behavior of the system at various load conditions", "IsAnswer": false },
-            { "Id": 1066, "QuestionId": 1013, "Name": "To verify the functional accuracy of the software", "IsAnswer": true },
-            { "Id": 1067, "QuestionId": 1013, "Name": "Several users perform desired operations", "IsAnswer": false },
-            { "Id": 1068, "QuestionId": 1013, "Name": "Requires close to production ", "IsAnswer": false }],
+            { "Id": 1065, "QuestionId": 1013, "Name": "1 hour", "IsAnswer": false },
+            { "Id": 1066, "QuestionId": 1013, "Name": "4 hours", "IsAnswer": false },
+            { "Id": 1067, "QuestionId": 1013, "Name": "8 hours", "IsAnswer": false },
+            { "Id": 1068, "QuestionId": 1013, "Name": "2 hours", "IsAnswer": true }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1014,
-        "Name": "Which type of testing is done to understand at which level the application crashes?",
+        "Name": "Analytics ready data sets in Teradata from FPTI will be made available with Polestar in",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1069, "QuestionId": 1014, "Name": "Load testing", "IsAnswer": false },
-            { "Id": 1070, "QuestionId": 1014, "Name": "Long Duration Testing", "IsAnswer": false },
-            { "Id": 1071, "QuestionId": 1014, "Name": "Spike Testing", "IsAnswer": true },
-            { "Id": 1072, "QuestionId": 1014, "Name": "Volume Testing", "IsAnswer": false }],
+            { "Id": 1069, "QuestionId": 1014, "Name": "1 hour", "IsAnswer": false },
+            { "Id": 1070, "QuestionId": 1014, "Name": "2 hours", "IsAnswer": false },
+            { "Id": 1071, "QuestionId": 1014, "Name": "4 hours", "IsAnswer": false },
+            { "Id": 1072, "QuestionId": 1014, "Name": "8 hours", "IsAnswer": true }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1015,
-        "Name": "Response time and TPS(throughput) are directly proportional",
+        "Name": "Herald support Pageflow  to examine traffic patterns and conversion analysis",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1073, "QuestionId": 1015, "Name": "True", "IsAnswer": false },
-            { "Id": 1074, "QuestionId": 1015, "Name": "False", "IsAnswer": true }],
+            { "Id": 1073, "QuestionId": 1015, "Name": "True", "IsAnswer": true },
+            { "Id": 1074, "QuestionId": 1015, "Name": "False", "IsAnswer": false }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1016,
-        "Name": "Which of the following law is considered to be the fundamental for arriving the user model in performance testing?",
+        "Name": "Polestar is data processing pipeline that replaces",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1075, "QuestionId": 1016, "Name": "Stuart's Law", "IsAnswer": false },
-            { "Id": 1076, "QuestionId": 1016, "Name": "Little's Law", "IsAnswer": true },
-            { "Id": 1077, "QuestionId": 1016, "Name": "Anchor's Law", "IsAnswer": false },
-            { "Id": 1078, "QuestionId": 1016, "Name": "Winsley's Law", "IsAnswer": false }],
+            { "Id": 1075, "QuestionId": 1016, "Name": "FPTI Hadoop pipeline", "IsAnswer": false },
+            { "Id": 1076, "QuestionId": 1016, "Name": "EAP", "IsAnswer": false },
+            { "Id": 1077, "QuestionId": 1016, "Name": "Both", "IsAnswer": true },
+            { "Id": 1078, "QuestionId": 1016, "Name": "None of the above", "IsAnswer": false }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1017,
-        "Name": "Which of the tool is used for load testing?",
+        "Name": "Herald is a Reporting tool for:",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1079, "QuestionId": 1017, "Name": "Selenium", "IsAnswer": false },
-            { "Id": 1080, "QuestionId": 1017, "Name": "Jmeter", "IsAnswer": true },
-            { "Id": 1081, "QuestionId": 1017, "Name": "Appium", "IsAnswer": false },
-            { "Id": 1082, "QuestionId": 1017, "Name": "Silk Test", "IsAnswer": false }],
+            { "Id": 1079, "QuestionId": 1017, "Name": "client side tracking data", "IsAnswer": false },
+            { "Id": 1080, "QuestionId": 1017, "Name": "server side tracking data", "IsAnswer": false },
+            { "Id": 1081, "QuestionId": 1017, "Name": "both", "IsAnswer": true },
+            { "Id": 1082, "QuestionId": 1017, "Name": "none", "IsAnswer": false }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1018,
-        "Name": "What are the sub-genres of load and performance testing?",
+        "Name": "Polestaer data is available in:",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1083, "QuestionId": 1018, "Name": "Load Testing", "IsAnswer": false },
-            { "Id": 1084, "QuestionId": 1018, "Name": "Stress Testing", "IsAnswer": false },
-            { "Id": 1085, "QuestionId": 1018, "Name": "Long Duration Testing", "IsAnswer": false },
-            { "Id": 1086, "QuestionId": 1018, "Name": "All the above", "IsAnswer": true }],
+            { "Id": 1083, "QuestionId": 1018, "Name": "Hadoop", "IsAnswer": false },
+            { "Id": 1084, "QuestionId": 1018, "Name": "Teradata", "IsAnswer": false },
+            { "Id": 1085, "QuestionId": 1018, "Name": "Both", "IsAnswer": false },
+            { "Id": 1086, "QuestionId": 1018, "Name": "none", "IsAnswer": true }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
     {
         "Id": 1019,
-        "Name": "Find the key performance metrics",
+        "Name": "PXP stands for",
         "QuestionTypeId": 1,
         "Options": [
-            { "Id": 1087, "QuestionId": 1019, "Name": "Response Time", "IsAnswer": false },
-            { "Id": 1088, "QuestionId": 1019, "Name": "Throughput", "IsAnswer": false },
-            { "Id": 1089, "QuestionId": 1019, "Name": "CPU utilized", "IsAnswer": false },
-            { "Id": 1090, "QuestionId": 1019, "Name": "All the above", "IsAnswer": true }],
+            { "Id": 1087, "QuestionId": 1019, "Name": "PayPal Enhancing Platform", "IsAnswer": false },
+            { "Id": 1088, "QuestionId": 1019, "Name": "PayPal Exchange Platform", "IsAnswer": false },
+            { "Id": 1089, "QuestionId": 1019, "Name": "PayPal Experience Platform", "IsAnswer": false },
+            { "Id": 1090, "QuestionId": 1019, "Name": "PayPal Experimentation Platform", "IsAnswer": true }],
         "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
     },
         {
             "Id": 1020,
-            "Name": "It is possible to run a test in PTaaS without Jmeter script",
+            "Name": "Herald supports Fallout Reports to analyze drop offs",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1091, "QuestionId": 1020, "Name": "True", "IsAnswer": false },
-                { "Id": 1092, "QuestionId": 1020, "Name": "False", "IsAnswer": true }],
+                { "Id": 1091, "QuestionId": 1020, "Name": "True", "IsAnswer": true },
+                { "Id": 1092, "QuestionId": 1020, "Name": "False", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1021,
-            "Name": "Which version of Jmeter does PTaaS support?",
+            "Name": "Spyglass is",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1093, "QuestionId": 1021, "Name": "Jmeter 2.13", "IsAnswer": true },
-                { "Id": 1094, "QuestionId": 1021, "Name": "Jmeter 2.11", "IsAnswer": false },
-                { "Id": 1095, "QuestionId": 1021, "Name": "Jmeter 2.9", "IsAnswer": false },
-                { "Id": 1096, "QuestionId": 1021, "Name": "Jmeter 3", "IsAnswer": false }],
+                { "Id": 1093, "QuestionId": 1021, "Name": "Tracking Release Framework", "IsAnswer": false },
+                { "Id": 1094, "QuestionId": 1021, "Name": "Analytics Testing Framework", "IsAnswer": false },
+                { "Id": 1095, "QuestionId": 1021, "Name": "Instrumentation Validation Toolkit", "IsAnswer": true },
+                { "Id": 1096, "QuestionId": 1021, "Name": "None of these", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1022,
-            "Name": "It is possible to monitor more than one application / stage in PTaaS",
+            "Name": "Herald will enable analyzing Customer Percieved Latency (CPL)",
             "QuestionTypeId": 1,
             "Options": [
                 { "Id": 1097, "QuestionId": 1022, "Name": "True", "IsAnswer": true },
@@ -141,566 +141,306 @@
         },
         {
             "Id": 1023,
-            "Name": "What are all the tech stacks that PTaaS supports?",
+            "Name": "Setting up an experiment in ELMO takes",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1099, "QuestionId": 1023, "Name": "Raptor", "IsAnswer": false },
-                { "Id": 1100, "QuestionId": 1023, "Name": "C++", "IsAnswer": false },
-                { "Id": 1101, "QuestionId": 1023, "Name": "Node", "IsAnswer": false },
-                { "Id": 1102, "QuestionId": 1023, "Name": "All the above", "IsAnswer": true }],
+                { "Id": 1099, "QuestionId": 1023, "Name": "<5 minutes", "IsAnswer": false },
+                { "Id": 1100, "QuestionId": 1023, "Name": ">15 minutes", "IsAnswer": false },
+                { "Id": 1101, "QuestionId": 1023, "Name": "15 minutes", "IsAnswer": false },
+                { "Id": 1102, "QuestionId": 1023, "Name": "30 minutes", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1024,
-            "Name": "Can we dedect Memory leak in applications using PTaaS?",
+            "Name": "ELMO can run only 2 concurrent experiments for a given customer experience",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1103, "QuestionId": 1024, "Name": "True", "IsAnswer": true },
-                { "Id": 1104, "QuestionId": 1024, "Name": "False", "IsAnswer": false }],
+                { "Id": 1103, "QuestionId": 1024, "Name": "True", "IsAnswer": false },
+                { "Id": 1104, "QuestionId": 1024, "Name": "False", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1025,
-            "Name": "Can we do profiling for the required components in PTaaS?",
+            "Name": "ELMO does not allow you to interpret Experiment results by Geography and Device types",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1105, "QuestionId": 1025, "Name": "True", "IsAnswer": true },
-                { "Id": 1106, "QuestionId": 1025, "Name": "False", "IsAnswer": false }],
+                { "Id": 1105, "QuestionId": 1025, "Name": "True", "IsAnswer": false },
+                { "Id": 1106, "QuestionId": 1025, "Name": "False", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1026,
-            "Name": "When was the highest traffic observed for last year?",
+            "Name": "Herald is a:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1107, "QuestionId": 1026, "Name": "Christmas Day", "IsAnswer": false },
-                { "Id": 1108, "QuestionId": 1026, "Name": "New Year Day", "IsAnswer": false },
-                { "Id": 1109, "QuestionId": 1026, "Name": "Cyber Monday", "IsAnswer": true },
-                { "Id": 1110, "QuestionId": 1026, "Name": "Black Friday", "IsAnswer": false }],
+                { "Id": 1107, "QuestionId": 1026, "Name": "experimentation tool", "IsAnswer": false },
+                { "Id": 1108, "QuestionId": 1026, "Name": "instrumentation tool", "IsAnswer": false },
+                { "Id": 1109, "QuestionId": 1026, "Name": "only a visualization tool", "IsAnswer": false },
+                { "Id": 1110, "QuestionId": 1026, "Name": "analytics tool", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1027,
-            "Name": "What is the highest Payments processed per second by Paypal last year?",
+            "Name": "FPTI instrumentation is supported for:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1111, "QuestionId": 1027, "Name": "100-200", "IsAnswer": false },
-                { "Id": 1112, "QuestionId": 1027, "Name": "200-300", "IsAnswer": false },
-                { "Id": 1113, "QuestionId": 1027, "Name": "300-400", "IsAnswer": true },
-                { "Id": 1114, "QuestionId": 1027, "Name": "800-900", "IsAnswer": false }],
+                { "Id": 1111, "QuestionId": 1027, "Name": "Java, C++, Nodejs", "IsAnswer": true },
+                { "Id": 1112, "QuestionId": 1027, "Name": "Java, Nodejs", "IsAnswer": false },
+                { "Id": 1113, "QuestionId": 1027, "Name": "C++, Nodejs", "IsAnswer": false },
+                { "Id": 1114, "QuestionId": 1027, "Name": "Nodejs", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1028,
-            "Name": "Which of the Paypal’s framework utility is used to log the activities like SQL statements, Connections,RPC calls?",
+            "Name": "Lighthouse Analytics unifies:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1115, "QuestionId": 1028, "Name": "Spotlight", "IsAnswer": false },
-                { "Id": 1116, "QuestionId": 1028, "Name": "CAL", "IsAnswer": true },
-                { "Id": 1117, "QuestionId": 1028, "Name": "Appdynamics", "IsAnswer": false },
-                { "Id": 1118, "QuestionId": 1028, "Name": "Jmeter", "IsAnswer": false }],
+                { "Id": 1115, "QuestionId": 1028, "Name": "FPTI, Spider, Herald", "IsAnswer": false },
+                { "Id": 1116, "QuestionId": 1028, "Name": "FPTI, Spider, Herald, FPTIGov", "IsAnswer": false },
+                { "Id": 1117, "QuestionId": 1028, "Name": "FPTI, Spider, Herald, PXP, ELMO", "IsAnswer": true },
+                { "Id": 1118, "QuestionId": 1028, "Name": "FPTI, Spyglass, Herald,  PXP, ELMO", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1029,
-            "Name": "Which is a unified monitoring platform providing capabilities to monitor and manage availability of Applications, Systems, and Infrastructure in real-time so developers act quickly to resolve site issues, thus providing a better experience to PayPal customers, and better business performance",
+            "Name": "Lighthouse Analytics unifies:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1119, "QuestionId": 1029, "Name": "CAL", "IsAnswer": false },
-                { "Id": 1120, "QuestionId": 1029, "Name": "Sherlock", "IsAnswer": true },
-                { "Id": 1121, "QuestionId": 1029, "Name": "JMeter", "IsAnswer": false },
-                { "Id": 1122, "QuestionId": 1029, "Name": "PTaaS", "IsAnswer": false }],
+                { "Id": 1119, "QuestionId": 1029, "Name": "Data Collection - FPTI Instrumentation", "IsAnswer": false },
+                { "Id": 1120, "QuestionId": 1029, "Name": "Chrome and CI plugin - FPTI Validator", "IsAnswer": false },
+                { "Id": 1121, "QuestionId": 1029, "Name": "Data Visibility - FPTI Search", "IsAnswer": false },
+                { "Id": 1122, "QuestionId": 1029, "Name": "all of the above", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1030,
-            "Name": "Which of the below is not a type of performance testing?",
+            "Name": "Experimentation includes",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1123, "QuestionId": 1030, "Name": "Scalability testing", "IsAnswer": false },
-                { "Id": 1124, "QuestionId": 1030, "Name": "Spike testing", "IsAnswer": false },
-                { "Id": 1125, "QuestionId": 1030, "Name": "Volume testing", "IsAnswer": false },
-                { "Id": 1126, "QuestionId": 1030, "Name": "Static Analysis Testing", "IsAnswer": true }],
+                { "Id": 1123, "QuestionId": 1030, "Name": "Ramp testing", "IsAnswer": false },
+                { "Id": 1124, "QuestionId": 1030, "Name": "A/B testing", "IsAnswer": false },
+                { "Id": 1125, "QuestionId": 1030, "Name": "load testing", "IsAnswer": false },
+                { "Id": 1126, "QuestionId": 1030, "Name": "Ramp and A/B testing", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1031,
-            "Name": "Which of the below is not a common performance bottlenecks?",
+            "Name": "Lighthouse offers analytics through:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1127, "QuestionId": 1031, "Name": "CPU Utilization", "IsAnswer": false },
-                { "Id": 1128, "QuestionId": 1031, "Name": "Memory Utilization", "IsAnswer": false },
-                { "Id": 1129, "QuestionId": 1031, "Name": "Networking Utilization", "IsAnswer": false },
-                { "Id": 1130, "QuestionId": 1031, "Name": "Functionality deviation", "IsAnswer": true }],
+                { "Id": 1127, "QuestionId": 1031, "Name": "Herald", "IsAnswer": false },
+                { "Id": 1128, "QuestionId": 1031, "Name": "Polestar", "IsAnswer": false },
+                { "Id": 1129, "QuestionId": 1031, "Name": "both", "IsAnswer": false },
+                { "Id": 1130, "QuestionId": 1031, "Name": "none", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1032,
-            "Name": "List out some of the performance testing tools?",
+            "Name": "FPTI only supports Client side Instrumentation",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1131, "QuestionId": 1032, "Name": "HP LoadRunner", "IsAnswer": false },
-                { "Id": 1132, "QuestionId": 1032, "Name": "JMeter", "IsAnswer": false },
-                { "Id": 1133, "QuestionId": 1032, "Name": "PTaaS", "IsAnswer": false },
-                { "Id": 1134, "QuestionId": 1032, "Name": "All of the above", "IsAnswer": true }],
+                { "Id": 1131, "QuestionId": 1032, "Name": "true", "IsAnswer": false },
+                { "Id": 1132, "QuestionId": 1032, "Name": "false", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1033,
-            "Name": "How many number of products and services, CPI has designed to empower engineers, and accelerate the pace of innovation?",
+            "Name": "What is the tool that tells the tracking instrumentations available in a page?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1135, "QuestionId": 1033, "Name": "> 100", "IsAnswer": true },
-                { "Id": 1136, "QuestionId": 1033, "Name": "50", "IsAnswer": false },
-                { "Id": 1137, "QuestionId": 1033, "Name": ">200", "IsAnswer": false },
-                { "Id": 1138, "QuestionId": 1033, "Name": "None of the above", "IsAnswer": false }],
+                { "Id": 1133, "QuestionId": 1033, "Name": "Web", "IsAnswer": false },
+                { "Id": 1134, "QuestionId": 1033, "Name": "Spider", "IsAnswer": true },
+                { "Id": 1135, "QuestionId": 1033, "Name": "Crawler", "IsAnswer": false },
+                { "Id": 1136, "QuestionId": 1033, "Name": "Search", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1034,
-            "Name": "Tech Hub, a centralized portal conceived to enable PayPal’s engineering as One Team. Discover and engage CPI solutions, access relevant documentation, receive live support, open service requests, and more!",
+            "Name": "What is the Single source of truth for all tags applicable for tracking instrumentation?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1139, "QuestionId": 1034, "Name": "true", "IsAnswer": true },
-                { "Id": 1140, "QuestionId": 1034, "Name": "false", "IsAnswer": false }],
+                { "Id": 1137, "QuestionId": 1034, "Name": "FPTIWeb", "IsAnswer": false },
+                { "Id": 1138, "QuestionId": 1034, "Name": "FPTIGov", "IsAnswer": true },
+                { "Id": 1139, "QuestionId": 1034, "Name": "FPTISearch", "IsAnswer": false },
+                { "Id": 1140, "QuestionId": 1034, "Name": "FPTITags", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1035,
-            "Name": "List out some of the performance testing tools?",
+            "Name": "What is PayPals Analytics Tool?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1141, "QuestionId": 1035, "Name": "HP LoadRunner", "IsAnswer": false },
-                { "Id": 1142, "QuestionId": 1035, "Name": "JMeter", "IsAnswer": false },
-                { "Id": 1143, "QuestionId": 1035, "Name": "PTaaS", "IsAnswer": false },
-                { "Id": 1144, "QuestionId": 1035, "Name": "All of the above", "IsAnswer": true }],
+                { "Id": 1141, "QuestionId": 1035, "Name": "Herald", "IsAnswer": true },
+                { "Id": 1142, "QuestionId": 1035, "Name": "Superset", "IsAnswer": false },
+                { "Id": 1143, "QuestionId": 1035, "Name": "Spider", "IsAnswer": false },
+                { "Id": 1144, "QuestionId": 1035, "Name": "Pivot", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
-
         {
             "Id": 1036,
-            "Name": "What is the tool that tells the tracking instrumentations available in a page?",
+            "Name": "What is the Jenkins plugin for validating tracking instrumentation?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1145, "QuestionId": 1036, "Name": "Web", "IsAnswer": false },
-                { "Id": 1146, "QuestionId": 1036, "Name": "Spider", "IsAnswer": true },
-                { "Id": 1147, "QuestionId": 1036, "Name": "Crawler", "IsAnswer": false },
-                { "Id": 1148, "QuestionId": 1036, "Name": "Search", "IsAnswer": false }],
+                { "Id": 1145, "QuestionId": 1039, "Name": "Spyglass", "IsAnswer": true },
+                { "Id": 1146, "QuestionId": 1039, "Name": "iSpy", "IsAnswer": false },
+                { "Id": 1147, "QuestionId": 1039, "Name": "Groovy", "IsAnswer": false },
+                { "Id": 1148, "QuestionId": 1039, "Name": "All of the above", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
             "Id": 1037,
-            "Name": "What is the Single source of truth for all tags applicable for tracking instrumentation?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1149, "QuestionId": 1037, "Name": "FPTIWeb", "IsAnswer": false },
-                { "Id": 1150, "QuestionId": 1037, "Name": "FPTIGov", "IsAnswer": true },
-                { "Id": 1151, "QuestionId": 1037, "Name": "FPTISearch", "IsAnswer": false },
-                { "Id": 1152, "QuestionId": 1037, "Name": "FPTITags", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1038,
-            "Name": "What is PayPals Analytics Tool?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1153, "QuestionId": 1038, "Name": "Herald", "IsAnswer": true },
-                { "Id": 1154, "QuestionId": 1038, "Name": "Superset", "IsAnswer": false },
-                { "Id": 1155, "QuestionId": 1038, "Name": "Spider", "IsAnswer": false },
-                { "Id": 1156, "QuestionId": 1038, "Name": "Pivot", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1039,
-            "Name": "What is the Jenkins plugin for validating tracking instrumentation?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1157, "QuestionId": 1039, "Name": "Spyglass", "IsAnswer": true },
-                { "Id": 1158, "QuestionId": 1039, "Name": "iSpy", "IsAnswer": false },
-                { "Id": 1159, "QuestionId": 1039, "Name": "Groovy", "IsAnswer": false },
-                { "Id": 1160, "QuestionId": 1039, "Name": "All of the above", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1040,
             "Name": "Analytics that's not available in herlad?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1161, "QuestionId": 1040, "Name": "Reports", "IsAnswer": false },
-                { "Id": 1162, "QuestionId": 1040, "Name": "CPL", "IsAnswer": false },
-                { "Id": 1163, "QuestionId": 1040, "Name": "Page Flow", "IsAnswer": false },
-                { "Id": 1164, "QuestionId": 1040, "Name": "XO-Conversion", "IsAnswer": true }],
+                { "Id": 1149, "QuestionId": 1040, "Name": "Reports", "IsAnswer": false },
+                { "Id": 1150, "QuestionId": 1040, "Name": "CPL", "IsAnswer": false },
+                { "Id": 1151, "QuestionId": 1040, "Name": "Page Flow", "IsAnswer": false },
+                { "Id": 1152, "QuestionId": 1040, "Name": "XO-Conversion", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },                    
         
         {
-            "Id": 1019,
-            "Name": "Which of the Paypal’s framework utility is used to log the activities like SLQ statements, Connections,RPC calls?",
+            "Id": 1038,
+            "Name": "FPTI data in FPTI Search has retention time of:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "Spotlight", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "CAL", "IsAnswer": true },
-                { "Id": 1057, "QuestionId": 1010, "Name": "Appdynamics", "IsAnswer": false },
-                { "Id": 1058, "QuestionId": 1010, "Name": "Jmeter", "IsAnswer": false }],
+                { "Id": 1153, "QuestionId": 1041, "Name": "14 days", "IsAnswer": true },
+                { "Id": 1154, "QuestionId": 1041, "Name": "30 days", "IsAnswer": false },
+                { "Id": 1155, "QuestionId": 1041, "Name": "7 days", "IsAnswer": false },
+                { "Id": 1156, "QuestionId": 1041, "Name": "1 year", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "Which is a unified monitoring platform providing capabilities to monitor and manage availability of Applications, Systems, and Infrastructure in real-time so developers act quickly to resolve site issues, thus providing a better experience to PayPal customers, and better business performance",
+            "Id": 1039,
+            "Name": "FPTI collects data from:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "CAL", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "Sherlock", "IsAnswer": true },
-                { "Id": 1057, "QuestionId": 1010, "Name": "JMeter", "IsAnswer": false },
-                { "Id": 1058, "QuestionId": 1010, "Name": "PTaaS", "IsAnswer": false }],
+                { "Id": 1157, "QuestionId": 1042, "Name": "mobile app", "IsAnswer": false },
+                { "Id": 1158, "QuestionId": 1042, "Name": "web client", "IsAnswer": false },
+                { "Id": 1159, "QuestionId": 1042, "Name": "app servers", "IsAnswer": false },
+                { "Id": 1160, "QuestionId": 1042, "Name": "all of the above", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "How do you find the Service Version on MS Environments ?",
+            "Id": 1040,
+            "Name": "ELMO stands for:",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "service version <service-name> <env>", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "sv <service-name> <env>", "IsAnswer": true },
-                { "Id": 1057, "QuestionId": 1010, "Name": "<service-name> version <env>", "IsAnswer": false },
-                { "Id": 1058, "QuestionId": 1010, "Name": "CAL", "IsAnswer": false }],
+                { "Id": 1161, "QuestionId": 1043, "Name": "Experimentation Life-cycle Module and Operation", "IsAnswer": false },
+                { "Id": 1162, "QuestionId": 1043, "Name": "Experimentation Life-cycle Management and Operation", "IsAnswer": true },
+                { "Id": 1163, "QuestionId": 1043, "Name": "Experience Life-cycle Management and Operation", "IsAnswer": false },
+                { "Id": 1164, "QuestionId": 1043, "Name": "Experience Life-cycle Module and Operation", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "How do you find the boxes hosting a service on MS Environments ?",
+            "Id": 1041,
+            "Name": "FPTI does not support Android integration",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "service version <service-name> <env>", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "sv <service-name> <env>", "IsAnswer": true },
-                { "Id": 1057, "QuestionId": 1010, "Name": "<service-name> version <env>", "IsAnswer": false },
-                { "Id": 1058, "QuestionId": 1010, "Name": "CAL", "IsAnswer": false }],
+                { "Id": 1055, "QuestionId": 1044, "Name": "True", "IsAnswer": false },
+                { "Id": 1056, "QuestionId": 1044, "Name": "False", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "Can you do deploy a custom build on MSM/MSR ?",
+            "Id": 1042,
+            "Name": "FPTI Search provides realtime Instrumentation visibility on LIVE",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "True", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "False", "IsAnswer": true }],
+                { "Id": 1057, "QuestionId": 1045, "Name": "True", "IsAnswer": true },
+                { "Id": 1058, "QuestionId": 1045, "Name": "False", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "Is PPMiR supported on MSM ?",
+            "Id": 1043,
+            "Name": "ELMO is our next generation",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "True", "IsAnswer": true },
-                { "Id": 1056, "QuestionId": 1010, "Name": "False", "IsAnswer": false }],
+                { "Id": 1059, "QuestionId": 1046, "Name": "Experience enhancement platform", "IsAnswer": false },
+                { "Id": 1060, "QuestionId": 1046, "Name": "Experimentation Platform", "IsAnswer": true },
+                { "Id": 1061, "QuestionId": 1046, "Name": "Experience Analysis Platform", "IsAnswer": false },
+                { "Id": 1061, "QuestionId": 1046, "Name": "none", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "How do you find the publishers for a AMQ in MS ?",
+            "Id": 1044,
+            "Name": "Spider is Chrome plugin to validate Experimentation",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "No SSH Access to Check", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "Using JAWS", "IsAnswer": false },
-                { "Id": 1057, "QuestionId": 1010, "Name": "Using cyclopsd API's", "IsAnswer": true },
-                { "Id": 1058, "QuestionId": 1010, "Name": "Ask Support to share the Logs", "IsAnswer": false }],
+                { "Id": 1062, "QuestionId": 1047, "Name": "True", "IsAnswer": true },
+                { "Id": 1063, "QuestionId": 1047, "Name": "False", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "How do you make sure things are wired together on a User Stage and are working with components on MS?",
+            "Id": 1045,
+            "Name": "All tags get analyzed in fpitsearch",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "Check Haproxy File", "IsAnswer": false },
-                { "Id": 1056, "QuestionId": 1010, "Name": "Slack command validate_us", "IsAnswer": true },
-                { "Id": 1057, "QuestionId": 1010, "Name": "Using cyclopsd API's", "IsAnswer": false },
-                { "Id": 1058, "QuestionId": 1010, "Name": "Ask Support to share the Logs", "IsAnswer": false }],
+                { "Id": 1064, "QuestionId": 1048, "Name": "True", "IsAnswer": false },
+                { "Id": 1065, "QuestionId": 1048, "Name": "False", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1019,
-            "Name": "To Test AMQ on a user stage you also need to deploy the publisher components ?",
+            "Id": 1046,
+            "Name": "all tags get indexed in fptisearch",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1055, "QuestionId": 1010, "Name": "True", "IsAnswer": true },
-                { "Id": 1056, "QuestionId": 1010, "Name": "False", "IsAnswer": false }],
+                { "Id": 1066, "QuestionId": 1049, "Name": "True", "IsAnswer": true },
+                { "Id": 1067, "QuestionId": 1049, "Name": "False", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-
-            "Id": 1101,
-            "Name": "Currently in how many countries PPWC loan is offered?",
+            "Id": 1047,
+            "Name": "Summary details in herlad includes",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1201, "QuestionId": 1101, "Name": "1", "IsAnswer": false },
-                { "Id": 1202, "QuestionId": 1101, "Name": "3", "IsAnswer": true },
-                { "Id": 1203, "QuestionId": 1101, "Name": "2", "IsAnswer": false },
-                { "Id": 1204, "QuestionId": 1101, "Name": "4", "IsAnswer": false }],
+                { "Id": 1066, "QuestionId": 1050, "Name": "page views", "IsAnswer": false },
+                { "Id": 1067, "QuestionId": 1050, "Name": "unique visitors/sessions", "IsAnswer": false },
+                { "Id": 1068, "QuestionId": 1050, "Name": "device type count", "IsAnswer": false },
+                { "Id": 1069, "QuestionId": 1050, "Name": "all of these", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1102,
-            "Name": "What is PayPal Working Capital UK name?",
+            "Id": 1048,
+            "Name": "spider gives the fpti instrumentations on any page. which of the following you cannot navigate to from spider?",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1205, "QuestionId": 1102, "Name": "Business Credit", "IsAnswer": false },
-                { "Id": 1206, "QuestionId": 1102, "Name": "Working Capital", "IsAnswer": false },
-                { "Id": 1207, "QuestionId": 1102, "Name": "Cash Advnace", "IsAnswer": true },
-                { "Id": 1208, "QuestionId": 1102, "Name": "Business Kredit", "IsAnswer": false }],
+                { "Id": 1066, "QuestionId": 1050, "Name": "elmo", "IsAnswer": false },
+                { "Id": 1067, "QuestionId": 1050, "Name": "herlad", "IsAnswer": false },
+                { "Id": 1068, "QuestionId": 1050, "Name": "fpti docs", "IsAnswer": false },
+                { "Id": 1069, "QuestionId": 1050, "Name": "all of these", "IsAnswer": true }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1103,
-            "Name": "What is the maximum amount PayPal offers merchant for his first Loan?",
+            "Id": 1049,
+            "Name": "Average number of events processed by FPTI daily",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1209, "QuestionId": 1103, "Name": "95K", "IsAnswer": false },
-                { "Id": 1210, "QuestionId": 1103, "Name": "97K", "IsAnswer": true },
-                { "Id": 1211, "QuestionId": 1103, "Name": "125K", "IsAnswer": false },
-                { "Id": 1212, "QuestionId": 1103, "Name": "100K", "IsAnswer": false }],
+                { "Id": 1070, "QuestionId": 1051, "Name": "5B", "IsAnswer": false },
+                { "Id": 1071, "QuestionId": 1051, "Name": "7B", "IsAnswer": false },
+                { "Id": 1072, "QuestionId": 1051, "Name": "8B", "IsAnswer": true },
+                { "Id": 1073, "QuestionId": 1051, "Name": "11B", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1104,
-            "Name": "Which third party vendor PayPal uses for instant decision on merchant credit?",
+            "Id": 1050,
+            "Name": "Average number of events processed by FPTI daily",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1213, "QuestionId": 1104, "Name": "Halifax", "IsAnswer": false },
-                { "Id": 1214, "QuestionId": 1104, "Name": "American Credit", "IsAnswer": false },
-                { "Id": 1215, "QuestionId": 1104, "Name": "Zoot", "IsAnswer": true },
-                { "Id": 1216, "QuestionId": 1104, "Name": "Lloyds", "IsAnswer": false }],
+                { "Id": 1074, "QuestionId": 1052, "Name": "5B", "IsAnswer": false },
+                { "Id": 1075, "QuestionId": 1052, "Name": "7B", "IsAnswer": false },
+                { "Id": 1076, "QuestionId": 1052, "Name": "8B", "IsAnswer": true },
+                { "Id": 1077, "QuestionId": 1052, "Name": "11B", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         },
         {
-            "Id": 1105,
-            "Name": "Minimum repayment % for PPWC sale transactions is ...............",
+            "Id": 1051,
+            "Name": "Internal tool not integrated with fpti-",
             "QuestionTypeId": 1,
             "Options": [
-                { "Id": 1217, "QuestionId": 1105, "Name": "5%", "IsAnswer": false },
-                { "Id": 1218, "QuestionId": 1105, "Name": "10%", "IsAnswer": true },
-                { "Id": 1219, "QuestionId": 1105, "Name": "12%", "IsAnswer": false },
-                { "Id": 1220, "QuestionId": 1105, "Name": "15%", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1106,
-            "Name": "Maximum how many open loans can a merchant have?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1221, "QuestionId": 1106, "Name": "1", "IsAnswer": true },
-                { "Id": 1222, "QuestionId": 1106, "Name": "2", "IsAnswer": false },
-                { "Id": 1223, "QuestionId": 1106, "Name": "3", "IsAnswer": false },
-                { "Id": 1224, "QuestionId": 1106, "Name": "5", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1107,
-            "Name": "To be eligible for PPWC loan merchant has to be with PayPal for at least .............",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1225, "QuestionId": 1107, "Name": "9 years", "IsAnswer": false },
-                { "Id": 1226, "QuestionId": 1107, "Name": "6 months", "IsAnswer": false },
-                { "Id": 1227, "QuestionId": 1107, "Name": "3 months", "IsAnswer": true },
-                { "Id": 1228, "QuestionId": 1107, "Name": "1 month", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1108,
-            "Name": "How PayPal collects interest for loans from merchant?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1229, "QuestionId": 1108, "Name": "One time fee", "IsAnswer": true },
-                { "Id": 1230, "QuestionId": 1108, "Name": "On fixed interest rate", "IsAnswer": false },
-                { "Id": 1231, "QuestionId": 1108, "Name": "EMI", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1109,
-            "Name": "Does PayPal need business documents to provide loans to merchant?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1233, "QuestionId": 1109, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1234, "QuestionId": 1109, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1110,
-            "Name": "After submitting business information how much time PayPal need to fund loan to merchant?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1237, "QuestionId": 1110, "Name": "1 working day", "IsAnswer": false },
-                { "Id": 1238, "QuestionId": 1110, "Name": "Within a day", "IsAnswer": false },
-                { "Id": 1239, "QuestionId": 1110, "Name": "Within an hour", "IsAnswer": false },
-                { "Id": 1240, "QuestionId": 1110, "Name": "Instantaneous", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1111,
-            "Name": "Which of the following country PPWC is expanding to in 2018?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1241, "QuestionId": 1111, "Name": "Canada", "IsAnswer": false },
-                { "Id": 1242, "QuestionId": 1111, "Name": "Germany", "IsAnswer": true },
-                { "Id": 1243, "QuestionId": 1111, "Name": "China", "IsAnswer": false },
-                { "Id": 1244, "QuestionId": 1111, "Name": "Singapore", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1112,
-            "Name": "PPWC will take repayment percent from all transactions",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1245, "QuestionId": 1112, "Name": "True", "IsAnswer": false },
-                { "Id": 1246, "QuestionId": 1112, "Name": "False", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1113,
-            "Name": "Is PayPal Working Capital providing loans to only merchants with PayPal account?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1249, "QuestionId": 1113, "Name": "Yes", "IsAnswer": true },
-                { "Id": 1250, "QuestionId": 1113, "Name": "No", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1114,
-            "Name": "Single merchants with multiple business offered multiple loans",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1253, "QuestionId": 1114, "Name": "True", "IsAnswer": true },
-                { "Id": 1254, "QuestionId": 1114, "Name": "false", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1115,
-            "Name": "Is the loan transfer option is made available to merchant from one business to other business?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1257, "QuestionId": 1115, "Name": "Yes", "IsAnswer": true },
-                { "Id": 1258, "QuestionId": 1115, "Name": "No", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1116,
-            "Name": "Is PPWC loan offered for personal use?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1261, "QuestionId": 1116, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1262, "QuestionId": 1116, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1117,
-            "Name": "After how many days PayPal starts taking repayments from merchant?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1265, "QuestionId": 1117, "Name": "After 1 day", "IsAnswer": false },
-                { "Id": 1266, "QuestionId": 1117, "Name": "After 3 days", "IsAnswer": true },
-                { "Id": 1267, "QuestionId": 1117, "Name": "After 1 week", "IsAnswer": false },
-                { "Id": 1268, "QuestionId": 1117, "Name": "After 1 month", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1118,
-            "Name": "Does PayPal do in person business verification?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1269, "QuestionId": 1118, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1270, "QuestionId": 1118, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1119,
-            "Name": "PayPal collects monthly EMI from merchant for the loans",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1273, "QuestionId": 1119, "Name": "True", "IsAnswer": false },
-                { "Id": 1274, "QuestionId": 1119, "Name": "fasle", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1120,
-            "Name": "Is merchant allowed to change his repayment percentage for his existing active loan himself?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1277, "QuestionId": 1120, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1278, "QuestionId": 1120, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1121,
-            "Name": "PayPal collects repayments on sales transactions ……………",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1281, "QuestionId": 1121, "Name": "At end of the day", "IsAnswer": false },
-                { "Id": 1282, "QuestionId": 1121, "Name": "At the time sales transaction", "IsAnswer": false },
-                { "Id": 1283, "QuestionId": 1121, "Name": "Both A and B", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1122,
-            "Name": "Will merchants credit score be affected for use of PPWC?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1285, "QuestionId": 1122, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1286, "QuestionId": 1122, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1123,
-            "Name": "Is merchant is allowed to do part payments manually?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1289, "QuestionId": 1123, "Name": "Yes", "IsAnswer": true },
-                { "Id": 1290, "QuestionId": 1123, "Name": "No", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1124,
-            "Name": "Will fixed fee change if I do some manual part payment?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1293, "QuestionId": 1124, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1294, "QuestionId": 1124, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1125,
-            "Name": "Are we supporting multiple currencies for single business?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1297, "QuestionId": 1125, "Name": "Yes", "IsAnswer": true },
-                { "Id": 1298, "QuestionId": 1125, "Name": "No", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1126,
-            "Name": "When merchant can take another loan?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1301, "QuestionId": 1126, "Name": "Immediately after previous loan pay off", "IsAnswer": false },
-                { "Id": 1302, "QuestionId": 1126, "Name": "After 1 day of payoff", "IsAnswer": false },
-                { "Id": 1303, "QuestionId": 1126, "Name": "After 3 days of payoff", "IsAnswer": true },
-                { "Id": 1304, "QuestionId": 1126, "Name": "Anytime", "IsAnswer": false }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1127,
-            "Name": "Can merchant take another loan from another provider when he has active PPWC loan?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1305, "QuestionId": 1127, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1306, "QuestionId": 1127, "Name": "No", "IsAnswer": true }],
-            "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
-        },
-        {
-            "Id": 1128,
-            "Name": "Is merchant automatically eligible for new loan if he pays off all his previous loans?",
-            "QuestionTypeId": 1,
-            "Options": [
-                { "Id": 1309, "QuestionId": 1128, "Name": "Yes", "IsAnswer": false },
-                { "Id": 1310, "QuestionId": 1128, "Name": "No", "IsAnswer": true }],
+                { "Id": 1078, "QuestionId": 1053, "Name": "altus", "IsAnswer": false },
+                { "Id": 1079, "QuestionId": 1053, "Name": "sherlock", "IsAnswer": false },
+                { "Id": 1080, "QuestionId": 1053, "Name": "CAL", "IsAnswer": true },
+                { "Id": 1081, "QuestionId": 1053, "Name": "enotify", "IsAnswer": false }],
             "QuestionType": { "Id": 1, "Name": "Multiple Choice", "IsActive": true }
         }
     ]
